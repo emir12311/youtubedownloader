@@ -22,6 +22,7 @@ This lets you search YouTube videos directly from the app, preview thumbnails, a
 ```bash
 pip install -r requirements.txt
 ```
+This app also needs **FFmpeg**, please make sure you have it in your path.
 
 ## Files
 - `youtubedownloader_ui.py` → UI code generated in Qt Designer
